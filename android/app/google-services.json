@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "585870551149",
+    "project_id": "mgs-mis",
+    "storage_bucket": "mgs-mis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585870551149:android:6b0419de09b51a140bb764",
+        "android_client_info": {
+          "package_name": "com.dani.fyp_sms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585870551149-ude2uhlvhe5ptk4d7drsrnsgaedrhedg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfArjzTI0uahdfcLQ_xhyhVNOmArVv9z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585870551149-ude2uhlvhe5ptk4d7drsrnsgaedrhedg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
